@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Toast Kotlin</string>
+    <string name="show_toast_button">Показать Toast</string>
+    <string name="learnkotlin">Пора изучать Kotlin!</string>
+    <string name="text_custom_toast">Это мой кастомный Toast!</string>
 </resources>
